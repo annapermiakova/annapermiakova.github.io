@@ -8,7 +8,7 @@
 [Classification_of_breast_cancer](/sample_page)
 
 
-<img src="images/Artificial%20%20intelligence%20on%20tablet%20screen%20Illustration.jpg?raw=true"/>
+<img src="images/3d-techny-searching-the-web-on-tablet-1.png?raw=true"/>
 
 ---
 [Prediction-of-bronchopulmonary-dysplasia](/pdf/sample_presentation.pdf)
