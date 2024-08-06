@@ -1,11 +1,2 @@
-title: Анна Пермякова
-description: Data Scientist 
-theme: minimal
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
-  
-
-google_analytics: UA-000000-0
+заголовок: Анна Пермякова # ваше имя (или название сайта) здесь логотип: "/images/Пермякова%20А.В.png?raw=true" # ваше фото (или логотип) здесь описание: > # ваш текст ниже (удалить <br) > элементов, если разрывы строк не нужны) Data science <br><br> Опыт работы с дифференциальными данными 5 лет+, медицинская статистика, анализ данных, прогнозирование Имею опыт построения классификационных, регрессионных и кластеризационных моделей с использованием ML/DL‑ подходы и инструменты. Numpy, scikit-learn, pandas, Pytorch/TensorFlow. Git, разработка функций, Docker. Математическая статистика, линейная алгебра и теория вероятностей. Образование МФТИ, 2024. Прикладная математика и физика. <br><br> <a href="https://www.linkedin.com/in/анна-пермякова-a5b4ba230/">Просмотреть мой профиль LinkedIn</a> images/logo_МФТИ.png Remote_theme:pages-themes/ Minimal@v0.2.0 плагины: - jekyll-remote-theme google_analytics: UA-000000-0 # здесь ваш идентификатор отслеживания Google Analytics 
 
