@@ -1,69 +1,13 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Анна Пермякова</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        .container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .header {
-            display: flex;
-            justify-content: space-between;
-            width: 100%;
-            align-items: center;
-        }
-        .header img {
-            width: 100px;
-            height: auto;
-        }
-        .description {
-            margin-top: 20px;
-            text-align: center;
-        }
-        .description a {
-            color: #0073b1;
-            text-decoration: none;
-        }
-        .description a:hover {
-            text-decoration: underline;
-        }
-        .footer {
-            margin-top: 50px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Анна Пермякова</h1>
-            <img src="images/Пермякова%20А.В.png?raw=true" alt="Логотип">
-        </div>
-        <div class="description">
-            <p>Data scientist</p>
-            <p>Опыт работы с  медицинскими данными 5 лет+, медицинская статистика, анализ данных, прогнозирование</p>
-            <p>Имею опыт построения классификационных, регрессионных и кластеризационных моделей с использованием ML/DL (подходы и инструменты). Numpy, scikit-learn, pandas, Pytorch/TensorFlow. Git, разработка функций, Docker. Математическая статистика, линейная алгебра и теория вероятностей.</p>
-            <p>Образование МФТИ, 2024. Прикладная математика и физика.</p>
-            <p><a href="https://www.linkedin.com/in/анна-пермякова-a5b4ba230/">Просмотреть мой профиль LinkedIn</a></p>
-            <img src="images/logo_МФТИ.png" alt="Логотип МФТИ" style="width: 100px;">
-        </div>
-    </div>
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-000000-0"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', 'UA-000000-0');
-    </script>
-</body>
-</html>
+# Анна Пермякова
+
+![Логотип](images/Пермякова%20А.В.png?raw=true)
+
+##  Data science  
+
+Опыт работы с медицинскими данными 5 лет+, медицинская статистика, анализ данных, прогнозирование  
+Имею опыт построения классификационных, регрессионных и кластеризационных моделей с использованием ML/DL‑подходы и инструменты. Numpy, scikit-learn, pandas, Pytorch/TensorFlow. Git, разработка функций, Docker. Математическая статистика, линейная алгебра и теория вероятностей.  
+Образование МФТИ, 2024. Прикладная математика и физика.
+
+[Просмотреть мой профиль LinkedIn](https://www.linkedin.com/in/анна-пермякова-a5b4ba230/)
+
+![Логотип МФТИ](images/logo_МФТИ.png?raw=true)
