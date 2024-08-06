@@ -6,8 +6,6 @@
 
 
 [Classification_of_breast_cancer](/sample_page)
-
-
 <img src="images/3d-techny-searching-the-web-on-tablet-1.png?raw=true"/>
 
 ---
