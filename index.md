@@ -4,11 +4,9 @@
 
 # Мои проекты
 
-<img src="images/1.png?raw=true"/>
 
 [Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
- что то здесь написать
 
 <img src="images/1.1.3.png?raw=true"/> 
 
