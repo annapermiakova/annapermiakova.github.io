@@ -10,28 +10,30 @@
 
 
 
-
 # Мои проекты
 
-[Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <img src="images/1.1.3.png?raw=true" style="width: 100%;"/>
-  <img src="images/1.1.5.png?raw=true" style="width: 100%;"/>
-  <img src="images/1.1.4.png?raw=true" style="width: 100%;"/>
-</div>
+###[Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
+
+
+<img src="images/1.1.3.png?raw=true"/> 
+
+<img src="images/1.1.5.png?raw=true"/> 
+
+ <img src="images/1.1.4.png?raw=true"/> 
+ 
 
  
 ---
 <img src="images/2.png?raw=true"/>
 
-[Prediction-of-bronchopulmonary-dysplasia](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
+###[Prediction-of-bronchopulmonary-dysplasia](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
 
 
 ---
 <img src="images/3.png?raw=true"/>
 
-[AutID](https://github.com/annapermiakova/AutID/)
+###[AutID](https://github.com/annapermiakova/AutID/)
 
 
 
