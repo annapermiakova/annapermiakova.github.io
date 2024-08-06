@@ -2,7 +2,7 @@
 # Мои проекты
 
 
-### 1.  [Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
+###  [ 1. Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
 
 <img src="images/1.1.3.png?raw=true"/> 
