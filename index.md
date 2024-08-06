@@ -4,8 +4,10 @@
 
 <img src="images/Благодарность Пермякова_page-0001.jpg"/> 
 
-<img src="images/1.1.5.png?raw=true"/> 
+<img src="images/серт.jpg?raw=true"/> 
 
+ <img src="images/1.1.4.png?raw=true"/> 
+ 
 ---
 
 # Мои проекты
