@@ -3,9 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  Data  scientist
   <br><br>
-  Second description 
+  Опыт работы с медицинскими данными 5 лет+, медицинская статистика, анализ данных, прогнозирование 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://" linkedin.com/in/анна-пермякова-a5b4ba230">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
