@@ -12,7 +12,7 @@
 ---
 <img src="images/2.png?raw=true"/>
 
-[Prediction-of-bronchopulmonary-dysplasia](/pdf/sample_presentation.pdf)
+[Prediction-of-bronchopulmonary-dysplasia](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
 
 
 ---
