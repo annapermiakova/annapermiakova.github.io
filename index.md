@@ -5,6 +5,7 @@
 ### Мои проекты
 
 <img src="images/1.png?raw=true"/>
+
 [Classification_of_breast_cancer](/sample_page)
 
 
