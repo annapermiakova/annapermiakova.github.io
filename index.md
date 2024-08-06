@@ -6,7 +6,7 @@
 
 <img src="images/серт.jpg?raw=true"/> 
 
- <img src="images/1.1.4.png?raw=true"/> 
+ <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true"/> 
  
 ---
 
