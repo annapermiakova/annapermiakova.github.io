@@ -1,6 +1,4 @@
-
-<h2 style="font-weight: bold; color: blue;">Мои проекты</h2>
-
+<h1 style="color: blue; font-weight: bold;">Мои проекты</h1>
 
 
 ###  [ 1. Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
