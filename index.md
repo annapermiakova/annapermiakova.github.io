@@ -1,9 +1,11 @@
 # Сертификаты, дипломы 
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 10px;">
-   <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
-  <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
-  <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
+    <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
+  </div>
+  <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
 </div>
 
 
