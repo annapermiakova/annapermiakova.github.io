@@ -2,7 +2,7 @@
 
 <img src="images/сертификат_х.jpg?raw=true"/> 
 
-<img src="images/Благодарность Пермякова_page-0001.jpg"/> 
+<img src="images/Благодарность.jpg?raw=true"/> 
 
 <img src="images/серт.jpg?raw=true"/> 
 
