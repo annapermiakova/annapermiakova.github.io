@@ -1,4 +1,4 @@
-<h2 style="color: #1E90FF; font-weight: bold;">Мои проекты</h2>
+<h2 style="color: #2471a3; font-weight: bold;">Мои проекты</h2>
 
 
 
