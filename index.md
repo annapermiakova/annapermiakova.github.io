@@ -1,14 +1,14 @@
 # Сертификаты, дипломы 
 
-<img src="images/сертификат_х.jpg?raw=true"/> 
+<table>
+  <tr>
+    <td><img src="images/сертификат_х.jpg?raw=true" width="200"/></td>
+    <td><img src="images/Благодарность.jpg?raw=true" width="200"/></td>
+    <td><img src="images/серт.jpg?raw=true" width="200"/></td>
+    <td><img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" width="200"/></td>
+  </tr>
+</table>
 
-<img src="images/Благодарность.jpg?raw=true"/> 
-
-<img src="images/серт.jpg?raw=true"/> 
-
- <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true"/> 
- 
----
 
 # Мои проекты
 
