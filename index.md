@@ -2,7 +2,7 @@
 
 <img src="images/Анна Пермякова.)сертификат_хакатон_page-0001.jpg?raw=true"/> 
 
-<img src="images/1.1.3.png?raw=true"/> 
+<img src="images/Благодарность Пермякова_page-0001.jpg"/> 
 
 <img src="images/1.1.5.png?raw=true"/> 
 
