@@ -25,7 +25,8 @@
 ###   [ 3. AutID](https://github.com/annapermiakova/AutID/)
 
 
-# Сертификаты, дипломы 
+<h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы </h2>
+
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <div style="display: flex; flex-direction: column; gap: 10px;">
