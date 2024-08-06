@@ -1,6 +1,6 @@
 # Сертификаты, дипломы 
 
-<img src="images/Анна Пермякова.)сертификат_хакатон_page-0001.jpg?raw=true"/> 
+<img src="images/сертификат_х.jpg?raw=true"/> 
 
 <img src="images/Благодарность Пермякова_page-0001.jpg"/> 
 
