@@ -2,9 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Classification_of_breast_cancer
 
-[Project 1 Title](/sample_page)
+
+[Classification_of_breast_cancer](/sample_page)
+
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
