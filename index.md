@@ -1,14 +1,3 @@
-# Сертификаты, дипломы 
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
-    <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
-  </div>
-  <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
-</div>
-
-
 
 # Мои проекты
 
@@ -18,9 +7,9 @@
 
 <img src="images/1.1.3.png?raw=true"/> 
 
-<img src="images/1.1.5.png?raw=true"/> 
+<img src="images/датасет.png?raw=true"/> 
 
- <img src="images/1.1.4.png?raw=true"/> 
+ <img src="images/резуль.png?raw=true"/> 
  
 
  
@@ -36,6 +25,15 @@
 ### [AutID](https://github.com/annapermiakova/AutID/)
 
 
+# Сертификаты, дипломы 
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
+    <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
+  </div>
+  <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
+</div>
 
 ---
 
