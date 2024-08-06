@@ -12,7 +12,7 @@
 
 ---
 [Prediction-of-bronchopulmonary-dysplasia](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/3d-techny-online-doctors-consultation-or-telemedicine.png?raw=true"/>
 
 ---
 [AutID](http://example.com/)
