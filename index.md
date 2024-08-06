@@ -8,7 +8,7 @@
 
 [Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
-
+ что то здесь написать
 ---
 <img src="images/2.png?raw=true"/>
 
@@ -18,7 +18,7 @@
 ---
 <img src="images/3.png?raw=true"/>
 
-[AutID](http://example.com/)
+[AutID](https://github.com/annapermiakova/AutID/)
 
 
 
