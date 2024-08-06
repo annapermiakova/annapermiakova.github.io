@@ -14,17 +14,18 @@
 
  
 ---
-<img src="images/2.png?raw=true"/>
+
 
 ###   [ 2. Prediction-of-bronchopulmonary-dysplasia](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
 
+<img src="images/2.png?raw=true"/>
 
 ---
-<img src="images/3.png?raw=true"/>
+
 
 ###   [ 3. AutID](https://github.com/annapermiakova/AutID/)
 
-
+<img src="images/3.png?raw=true"/>
 
 
 <h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы </h2>
