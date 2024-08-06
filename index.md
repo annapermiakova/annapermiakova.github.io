@@ -2,7 +2,7 @@
 
 ---
 
-### Classification_of_breast_cancer
+### Мои проекты
 
 
 [Classification_of_breast_cancer](/sample_page)
@@ -11,11 +11,11 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Prediction-of-bronchopulmonary-dysplasia](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[AutID](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
