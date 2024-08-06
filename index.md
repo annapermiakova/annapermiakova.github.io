@@ -6,7 +6,7 @@
 
 <img src="images/1.png?raw=true"/>
 
-[Classification_of_breast_cancer](/sample_page)
+[Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
 
 ---
