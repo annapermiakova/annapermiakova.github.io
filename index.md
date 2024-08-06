@@ -27,6 +27,8 @@
 
 <img src="images/3.png?raw=true"/>
 
+---
+
 
 <h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы </h2>
 
