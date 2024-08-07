@@ -4,10 +4,19 @@
 ---
 
 
-###  [ 1. Classification_of_breast_cancer](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
+###  [ 1. Classification_of_breast_cancer, 2023-2024 ](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
 
+
+Это учебный  цифровой стартап является алгоритмом, реализованным в виде веб-приложения, анализирующего маммографические изображения,  автоматически формируя заключение для врача-специалиста
 
 <img src="images/1.1.3.png?raw=true"/> 
+
+*Мои роли в этом проекте*
+Data Collection Lead  - обработаны данные 430 пациентов,  написан скрипт препроцессинга dicom файлов, собран датасет  из 4960 png-файлов;
+AI Model Methodology Lead – разработана архитектура модели с использованием трансферного обучения при помощи ResNet50;
+AI Model Development Engineer – реализована работа модели, развернуто веб-приложение
+Стек -  PyTorch, OpenCV, NumPy, Pandas, Pillow, OS, Glob,  XML, Google Colab,  VS Codе,  Amazon Web Services, Strеamlit.
+
 
 <img src="images/датасет.png?raw=true"/> 
 
