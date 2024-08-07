@@ -22,7 +22,7 @@
 *Стек* -  PyTorch, OpenCV, NumPy, Pandas, Pillow, OS, Glob,  XML, Google Colab,  VS Codе,  Amazon Web Services, Strеamlit.
 
 
-<img src="images/images/метрики_маммогр.png?raw=true"/> 
+<img src="images/метрики_маммогр.png?raw=true"/> 
 
  <img src="images/резуль.png?raw=true"/> 
  
