@@ -96,23 +96,18 @@
 
 ---
 ---
+<h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы, патенты</h2>
 
-
-<h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы, патенты </h2>
-
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <div style="display: flex; flex-direction: column; gap: 10px;">
-    <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
-    <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
-  </div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="images/серт.jpg?raw=true" style="width: 100%;"/>
+  <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
   <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
+  <img src="images/ПЭВМ_22.png?raw=true" style="width: 100%;"/>
 </div>
 
+
+
 ---
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
