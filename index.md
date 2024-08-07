@@ -105,7 +105,7 @@
 - [Просмотреть статью в журнале Journal of Clinical Medicine](https://www.mdpi.com/2077-0383/10/16/3729)
 
 *Публикация в прессе*:
-- [Разработка российских ученых поможет улучшить тактику лечения глубоко недоношенных детей](https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej)
+- [Разработка российских ученых поможет улучшить тактику лечения глубоко недоношенных детей](https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucsit-taktiku-lecenia-glubokonedonosennyh-detej)
 
 
 *Патент и свидетельство на программный продукт*
