@@ -38,7 +38,7 @@
 
 ###   [ 2. Prediction-of-bronchopulmonary-dysplasia 2022-2024 ](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
 
-<img src="images/2.png?raw=true"/>
+<img src="images/лого_неонатал.png?raw=true"/>
 
 Цифровая прогностическая модель бронхолегочной дисплазии у новорожденных - авторский волонтерский проект, осуществляемый совместно с Пермским краевым неонатальным центром
 
@@ -50,7 +50,7 @@
 
 ###   [ 3. AutID  2024-2025 ](https://github.com/annapermiakova/AutID/)
 
-<img src="images/лого_неонатал.png?raw=true"/>
+<img src="images/3.png?raw=true"/>
 
 ---
 
