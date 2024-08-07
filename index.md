@@ -31,7 +31,7 @@
 
  <img src="images/резуль.png?raw=true"/> 
  
- Вот демоннстрационное видео:
+ Вот демонстрационное видео:
 
 ![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE2a3F6bnpvOXh6cW9mMXd6bzhsd2gyM3VsOXNsZ3RoaXc5cTljdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSUZhNVr8siVnCN1ay/giphy.gif)
 
