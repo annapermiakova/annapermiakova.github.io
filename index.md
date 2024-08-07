@@ -37,12 +37,12 @@
  
 ---
 
+### [ 2. Prediction-of-bronchopulmonary-dysplasia 2022-2024 ](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
 
-###   [ 2. Prediction-of-bronchopulmonary-dysplasia 2022-2024 ](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
-
-<img src="images/лого_неонатал.png?raw=true"/>
-
-Эта цифровая прогностическая модель бронхолегочной дисплазии у новорожденных - авторский волонтерский проект, осуществляемый совместно с Перинатальным Центром г. Перми 
+<div style="display: flex; align-items: center;">
+  <img src="images/лого_неонатал.png?raw=true" alt="Logo" style="margin-right: 20px;"/>
+  <p>Эта цифровая прогностическая модель бронхолегочной дисплазии у новорожденных - авторский волонтерский проект, осуществляемый совместно с Перинатальным Центром г. Перми</p>
+</div>
 
 
 <img src="images/1 (2).png?raw=true"/>
