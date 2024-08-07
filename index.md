@@ -33,9 +33,7 @@
  
  Вот демонстрационное видео:
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDE2a3F6bnpvOXh6cW9mMXd6bzhsd2gyM3VsOXNsZ3RoaXc5cTljdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fSUZhNVr8siVnCN1ay/giphy.gif)
-
-[via GIPHY](https://giphy.com/gifs/fSUZhNVr8siVnCN1ay)
+[![Watch the video](https://img.youtube.com/vi/YW2vKNv8tDE/0.jpg)](https://youtu.be/YW2vKNv8tDE)
  
 ---
 
