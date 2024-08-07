@@ -73,9 +73,10 @@
 
 <h2 style="color: #1f618d; font-weight: bold;"> Авторское ПО, патент </h2>
 
-<img src="images/images/ПЭВМ_22.png?raw=true"/>
+<img src="images/ПЭВМ_22.png?raw=true"/>
 
-<img src="images/RU2702990C1_20191015 (1).pdf?raw=true"/>
+<img src="images/?raw=true"/>
+
 
 <img src="images/ПрЭВМ №2021665182.pdf?raw=true"/>
 
