@@ -82,8 +82,10 @@
 *Моя роль в проекте* - разведочный анализ данных  видеоизображений,  аннотация кадров, обработка и сегментация видео (стандартизация, нормализация), извлечение результатов позы из RGB-изображений(OpenCV, Pillow, MediaPipe Pose).
 
 
-
 ---
+---
+
+
 
 <h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
   4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022
