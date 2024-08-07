@@ -70,31 +70,32 @@
 <img src="images/3.png?raw=true"/>
 
 ---
+<h2 style="color: #1f618d; font-weight: bold;">4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022</h2>
 
-###   4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022
+Авторский цифровой продукт – программа для экспресс-диагностики гемодинамически значимого функционирующего артериального протока у недоношенных новорожденных.
 
-Авторский цифровой продукт –  программа для экспресс-диагностики   гемодинамически значимого функционирующего артериального протока  у недоношенных новорожденных.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/корр.png?raw=true" alt="Корр" style="width: 45%; max-width: 300px;"/>
+  <img src="images/рок_ДА.png?raw=true" alt="Рок ДА" style="width: 45%; max-width: 300px;"/>
+</div>
 
-<img src="images/корр.png?raw=true"/>
+Полученная модель прогнозирования успешно классифицировала 85,9% пациентов с AUC 0,89. Используемые в модели факторы имели наилучшее сочетание чувствительности и специфичности: sensitivity 84,8 % и specificity 86.8%.
 
-<img src="images/рок_ДА.png?raw=true"/>
+**Результаты** работы представлены в журнале **Journal of Clinical Medicine** (CiteScore - Q1)  
+[https://www.mdpi.com/2077-0383/10/16/3729](https://www.mdpi.com/2077-0383/10/16/3729)
 
-
-Полученная модель прогнозирования успешно классифицировала 85,9%  пациентов с AUC 0,89. 
-Используемые в модели факторы имели наилучшее сочетания чувствительности и специфичности:  sensitivity 84,8 %   и specificity 86.8%.
-
-**Результаты**  работы представлены в журнале **Journal of Clinical Medicine**  (CiteScore - Q1)  
- https://www.mdpi.com/2077-0383/10/16/3729
-
-
-*Публикация в прессе* - https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucsit-taktiku-lecenia-glubokonedonosennyh-detej
+*Публикация в прессе* - [https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej](https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej)
 
 *Патент и свидетельство на программный продукт*
 
-<img src="images/Пр_ЭВМ_21.png?raw=true"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="images/Пр_ЭВМ_21.png?raw=true" alt="Пр ЭВМ" style="width: 45%; max-width: 300px;"/>
+  <img src="images/Пат_19.png?raw=true" alt="Патент" style="width: 45%; max-width: 300px;"/>
+</div>
 
-<img src="images/Пат_19.png?raw=true"/>
 
+---
+---
 
 
 <h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы, патенты </h2>
