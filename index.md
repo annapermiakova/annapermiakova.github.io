@@ -65,13 +65,13 @@
 ---
 ---
 
-###   [ 3. AutID  2024-2025 ](https://github.com/annapermiakova/AutID/)
+###    [3. AutID  2024-2025 ](https://github.com/annapermiakova/AutID/)]
 
 <img src="images/3.png?raw=true"/>
 
 ---
 
-###   [ 4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022 ]
+###   4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022
 
 Авторский цифровой продукт –  программа для экспресс-диагностики   гемодинамически значимого функционирующего артериального протока  у недоношенных новорожденных.
 
