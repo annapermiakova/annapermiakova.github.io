@@ -71,6 +71,15 @@
 
 ---
 
+<h2 style="color: #1f618d; font-weight: bold;"> Авторское ПО, патент </h2>
+
+<img src="images/?raw=true"/>
+
+<img src="images/?raw=true"/>
+
+<img src="images/?raw=true"/>
+
+
 
 <h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы </h2>
 
