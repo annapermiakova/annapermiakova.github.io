@@ -33,7 +33,7 @@
  
  Вот демонстрационное видео:
 
-[![Watch the video](https://img.youtube.com/vi/YW2vKNv8tDE/0.jpg)](https://youtu.be/YW2vKNv8tDE)
+![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWV3bW1xYWYxcmZhb3l5cWY3Z291ZHBwbmxscWdoZ25qZzlhdnhjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GfSYP0MEiYOstc9hPa/giphy.gif)
  
 ---
 
