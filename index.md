@@ -71,17 +71,33 @@
 
 ---
 
-<h2 style="color: #1f618d; font-weight: bold;"> Авторское ПО, патент </h2>
+###   [ 4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022 ]
 
-<img src="images/ПЭВМ_22.png?raw=true"/>
+Авторский цифровой продукт –  программа для экспресс-диагностики   гемодинамически значимого функционирующего артериального протока  у недоношенных новорожденных.
 
-<img src="images/Пр_ЭВМ_21.png?raw=true"/>
+<img src="images/?raw=true"/>
 
-<img src="images/Пат_19.png?raw=true"/>
+<img src="images/?raw=true"/>
+
+
+Полученная модель прогнозирования успешно классифицировала 85,9%  пациентов с AUC 0,89. 
+Используемые в модели факторы имели наилучшее сочетания чувствительности и специфичности:  sensitivity 84,8 %   и specificity 86.8%.
+
+**Результаты**  работы представлены в журнале **Journal of Clinical Medicine**  (CiteScore - Q1)  
+ https://www.mdpi.com/2077-0383/10/16/3729
+
+
+*Публикация в прессе* - https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucsit-taktiku-lecenia-glubokonedonosennyh-detej
+
+*Патент и свидетельство на программный продукт*
+
+<img src="images/?raw=true"/>
+
+<img src="images/?raw=true"/>
 
 
 
-<h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы </h2>
+<h2 style="color: #1f618d; font-weight: bold;">Сертификаты, дипломы, патенты </h2>
 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
