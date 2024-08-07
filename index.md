@@ -81,10 +81,12 @@
 
 Полученная модель прогнозирования успешно классифицировала 85,9% пациентов с AUC 0,89. Используемые в модели факторы имели наилучшее сочетание чувствительности и специфичности: sensitivity 84,8 % и specificity 86.8%.
 
-**Результаты** работы представлены в журнале **Journal of Clinical Medicine** (CiteScore - Q1)  
-[https://www.mdpi.com/2077-0383/10/16/3729](https://www.mdpi.com/2077-0383/10/16/3729)
+**Результаты** работы представлены в журнале **Journal of Clinical Medicine** (CiteScore - Q1):
+- [Просмотреть статью в журнале Journal of Clinical Medicine](https://www.mdpi.com/2077-0383/10/16/3729)
 
-*Публикация в прессе* - [https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej](https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej)
+*Публикация в прессе*:
+- [Разработка российских ученых поможет улучшить тактику лечения глубоко недоношенных детей](https://scientificrussia.ru/articles/razrabotka-rossijskih-ucenyh-pomozet-ulucshit-taktiku-lecenia-glubokonedonosennyh-detej)
+
 
 *Патент и свидетельство на программный продукт*
 
