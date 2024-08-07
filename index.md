@@ -77,7 +77,7 @@
 
 <img src="images/RU2702990C1_20191015 (1).pdf?raw=true"/>
 
-<img src="images/?raw=true"/>
+<img src="images/ПрЭВМ №2021665182.pdf?raw=true"/>
 
 
 
