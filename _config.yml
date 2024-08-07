@@ -15,6 +15,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Numpy, scikit-learn, pandas, Pytorch/TensorFlow. Git, Docker.
   
   Математическая статистика, линейная алгебра и теория вероятностей
+  
 
   Выпускник МФТИ 2024
   
@@ -24,10 +25,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/анна-пермякова-a5b4ba230/">View My LinkedIn Profile</a> 
   
+  
   <a href=" https://www.kaggle.com/annapermyakova/">View My Kaggle Profile</a> 
 
   
-  https://www.kaggle.com/annapermyakova
+ 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
