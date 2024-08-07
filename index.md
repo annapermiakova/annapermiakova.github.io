@@ -41,8 +41,10 @@
 ---
 ---
 
+<h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
+  <a href="https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/" style="color: #1f618d; text-decoration: none;">2. Prediction-of-bronchopulmonary-dysplasia 2022-2024</a>
+</h2>
 
-### <a href="https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/" style="color: #1f618d; text-decoration: none;">2. Prediction-of-bronchopulmonary-dysplasia 2022-2024</a>
 
 <div style="display: flex; align-items: center;">
   <img src="images/лого_неонатал.png?raw=true" alt="Logo" style="margin-right: 20px;"/>
@@ -67,13 +69,19 @@
 ---
 ---
 
-### <a href="https://github.com/annapermiakova/AutID/" style="color: #1f618d; text-decoration: none;">3. AutID 2024-2025</a>
 
+<h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
+  <a href="https://github.com/annapermiakova/AutID/" style="color: #1f618d; text-decoration: none;">3. AutID 2024-2025</a>
+</h2>
 
 <img src="images/3.png?raw=true"/>
 
 ---
-<h2 style="color: #1f618d; font-weight: bold;">4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022</h2>
+
+<h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
+  4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022
+</h2>
+
 
 Авторский цифровой продукт – программа для экспресс-диагностики гемодинамически значимого функционирующего артериального протока у недоношенных новорожденных.
 
