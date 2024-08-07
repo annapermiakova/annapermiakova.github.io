@@ -50,7 +50,7 @@
 
 ###   [ 3. AutID  2024-2025 ](https://github.com/annapermiakova/AutID/)
 
-<img src="images/3.png?raw=true"/>
+<img src="images/лого_неонатал.png?raw=true"/>
 
 ---
 
