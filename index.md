@@ -6,8 +6,9 @@
 
 
 
-### <a href="https://github.com/annapermiakova/Stream-it_model_cancer_mammae/" style="color: #1f618d; text-decoration: none;">1. Classification_of_breast_cancer, 2023-2024</a>
-
+<h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
+  <a href="https://github.com/annapermiakova/Stream-it_model_cancer_mammae/" style="color: #1f618d; text-decoration: none;">1. Classification_of_breast_cancer, 2023-2024</a>
+</h2>
 
 Это учебный  цифровой стартап является алгоритмом, реализованным в виде веб-приложения, анализирующего маммографические изображения,  автоматически формируя заключение для врача-специалиста
 
