@@ -73,7 +73,7 @@
 
 <h2 style="color: #1f618d; font-weight: bold;"> Авторское ПО, патент </h2>
 
-<img src="images/?raw=true"/>
+<img src="images/-1805740953.pdf?raw=true"/>
 
 <img src="images/?raw=true"/>
 
