@@ -12,13 +12,15 @@
 <img src="images/1.1.3.png?raw=true"/> 
 
 *Мои роли в этом проекте*
-Data Collection Lead  - обработаны данные 430 пациентов,  написан скрипт препроцессинга dicom файлов, собран датасет  из 4960 png-файлов;
-AI Model Methodology Lead – разработана архитектура модели с использованием трансферного обучения при помощи ResNet50;
-AI Model Development Engineer – реализована работа модели, развернуто веб-приложение
-Стек -  PyTorch, OpenCV, NumPy, Pandas, Pillow, OS, Glob,  XML, Google Colab,  VS Codе,  Amazon Web Services, Strеamlit.
+
+**Data Collection Lead**  - обработаны данные 430 пациентов,  написан скрипт препроцессинга dicom файлов, собран датасет  из 4960 png-файлов;
+**AI Model Methodology Lead** – разработана архитектура модели с использованием трансферного обучения при помощи ResNet50;
+**AI Model Development Engineer** – реализована работа модели, развернуто веб-приложение
+
+*Стек* -  PyTorch, OpenCV, NumPy, Pandas, Pillow, OS, Glob,  XML, Google Colab,  VS Codе,  Amazon Web Services, Strеamlit.
 
 
-<img src="images/датасет.png?raw=true"/> 
+<img src="images/images/метрики_маммогр.png?raw=true"/> 
 
  <img src="images/резуль.png?raw=true"/> 
  
