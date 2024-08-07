@@ -4,7 +4,9 @@
 ---
 
 
-###  [ 1. Classification_of_breast_cancer, 2023-2024 ](https://github.com/annapermiakova/Stream-it_model_cancer_mammae/)
+
+
+### <a href="https://github.com/annapermiakova/Stream-it_model_cancer_mammae/" style="color: #1f618d; text-decoration: none;">1. Classification_of_breast_cancer, 2023-2024</a>
 
 
 Это учебный  цифровой стартап является алгоритмом, реализованным в виде веб-приложения, анализирующего маммографические изображения,  автоматически формируя заключение для врача-специалиста
@@ -39,8 +41,7 @@
 ---
 
 
-
-### [ 2. Prediction-of-bronchopulmonary-dysplasia 2022-2024 ](https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/)
+### <a href="https://github.com/annapermiakova/Prediction-of-bronchopulmonary-dysplasia/" style="color: #1f618d; text-decoration: none;">2. Prediction-of-bronchopulmonary-dysplasia 2022-2024</a>
 
 <div style="display: flex; align-items: center;">
   <img src="images/лого_неонатал.png?raw=true" alt="Logo" style="margin-right: 20px;"/>
@@ -65,7 +66,8 @@
 ---
 ---
 
-###    [3. AutID  2024-2025 ](https://github.com/annapermiakova/AutID/)]
+### <a href="https://github.com/annapermiakova/AutID/" style="color: #1f618d; text-decoration: none;">3. AutID 2024-2025</a>
+
 
 <img src="images/3.png?raw=true"/>
 
