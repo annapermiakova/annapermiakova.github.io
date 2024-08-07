@@ -77,7 +77,7 @@
 
 <img src="images/Пр_ЭВМ_21.png?raw=true"/>
 
-<img src="images/?raw=true"/>
+<img src="images/Пат_19.png?raw=true"/>
 
 
 
