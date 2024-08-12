@@ -126,6 +126,7 @@
   <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
   <img src="images/ПЭВМ_22.png?raw=true" style="width: 100%;"/>
   <img src="images/images/stepik.png?raw=true" style="width: 100%;"/> 
+ 
 </div>
 
 
