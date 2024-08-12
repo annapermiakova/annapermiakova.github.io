@@ -125,7 +125,7 @@
   <img src="images/Пермякова Анна Владимировна_серификат РТ_page-0001.jpg?raw=true" style="width: 100%;"/>
   <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
   <img src="images/ПЭВМ_22.png?raw=true" style="width: 100%;"/>
-  <img src="images/images/stepik.png?raw=true" style="width: 100%;"/> 
+  <img src="images/stepik.png?raw=true" style="width: 100%;"/> 
  
 </div>
 
