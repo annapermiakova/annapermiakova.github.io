@@ -126,7 +126,8 @@
   <img src="images/Благодарность.jpg?raw=true" style="width: 100%;"/>
   <img src="images/ПЭВМ_22.png?raw=true" style="width: 100%;"/>
   <img src="images/stepik.png?raw=true" style="width: 100%;"/> 
- 
+  <img src="images/ADMET_дипломы 12.pdf style="width: 100%;"/>
+
 </div>
 
 
