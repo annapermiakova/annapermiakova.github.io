@@ -118,7 +118,7 @@
 
 ---
 <h2 style="color: #1f618d; font-weight: bold;">Хакатоны 2024</h2>
-<a href="https://github.com/annapermiakova/AutID/" style="color: #1f618d; text-decoration: none;">3. AutID 2024-2025</a>
+<a href="https://github.com/annapermiakova/tissue_classification/" style="color: #1f618d; text-decoration: none;">3. Хакатоны 2024</a>
 
 </h2>
 
