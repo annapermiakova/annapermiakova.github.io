@@ -117,8 +117,8 @@
 
 
 ---
-<h2 style="color: #1f618d; font-weight: bold;">Хакатоны 2024</h2>
-<a href="https://github.com/annapermiakova/tissue_classification/" style="color: #1f618d; text-decoration: none;">3. Хакатоны 2024</a>
+<h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
+<a href="https://github.com/annapermiakova/tissue_classification/" style="color: #1f618d; text-decoration: none;"> 5. Хакатоны 2024</a>
 
 </h2>
 
