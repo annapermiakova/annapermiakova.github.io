@@ -85,12 +85,9 @@
 ---
 ---
 
-
-
 <h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
-  4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022
+<a href="https://https://www.mdpi.com/2077-0383/10/16/3729/" style="color: #1f618d; text-decoration: none;"> 4. Discriminant Analysis of Main Prognostic Factors Associated with Hemodynamically Significant PDA, 2020-2022</a>
 </h2>
-
 
 Авторский цифровой продукт – программа для экспресс-диагностики гемодинамически значимого функционирующего артериального протока у недоношенных новорожденных.
 
@@ -114,7 +111,6 @@
   <img src="images/Пр_ЭВМ_21.png?raw=true" alt="Пр ЭВМ" style="width: 45%; max-width: 300px;"/>
   <img src="images/Пат_19.png?raw=true" alt="Патент" style="width: 45%; max-width: 300px;"/>
 </div>
-
 
 ---
 <h2 style="color: #1f618d; font-weight: bold; font-size: 28px;">
