@@ -138,7 +138,8 @@
   <img src="images/ПЭВМ_22.png?raw=true" style="width: 100%;"/>
   <img src="images/stepik.png?raw=true" style="width: 100%;"/> 
   <img src="images/ADMET_диплом.jpg" style="width: 100%;"/>
-
+  <img src="images/%D0%BE%D0%BD%D0%BA%D0%BE%D0%B3%D0%B5%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA%D0%B0_page-0001.jpg" style="width: 100%;"/>
+ 
 </div>
 
 
